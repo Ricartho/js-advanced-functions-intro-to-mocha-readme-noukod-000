@@ -3,13 +3,13 @@ function theTruth(){
 }
 
 function sayHey(){
-  return "Hey!"
+  return "Hey!";
 }
 
 function sayHeyFriend(name){
-  return `Hey, ${name}!`
+  return `Hey, ${name}!`;
 }
 
 function favoriteIceCream(flavor){
-  return ``
+  return `I love ${flavor}`;
 }
